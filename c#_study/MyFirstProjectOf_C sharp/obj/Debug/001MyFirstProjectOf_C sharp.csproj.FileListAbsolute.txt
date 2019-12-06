@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.pdb
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.exe.config
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.exe
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.pdb
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.exe
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.pdb
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csprojResolveAssemblyReference.cache

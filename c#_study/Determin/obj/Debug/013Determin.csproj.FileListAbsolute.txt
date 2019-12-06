@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Determin\bin\Debug\Determin.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Determin\bin\Debug\Determin.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Determin\bin\Debug\Determin.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Determin\obj\Debug\013Determin.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Determin\obj\Debug\Determin.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Determin\obj\Debug\Determin.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Determin\obj\Debug\013Determin.csprojAssemblyReference.cache

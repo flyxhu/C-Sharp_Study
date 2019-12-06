@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\035LianXi_判断字符大小写\bin\Debug\035LianXi_判断字符大小写.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\035LianXi_判断字符大小写\bin\Debug\035LianXi_判断字符大小写.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\035LianXi_判断字符大小写\bin\Debug\035LianXi_判断字符大小写.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.pdb

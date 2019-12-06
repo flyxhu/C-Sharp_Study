@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\bin\Debug\036类型转换.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\bin\Debug\036类型转换.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\bin\Debug\036类型转换.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类型转换.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类型转换.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类型转换.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类型转换.pdb

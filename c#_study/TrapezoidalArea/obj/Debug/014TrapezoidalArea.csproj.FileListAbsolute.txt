@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\TrapezoidalArea\bin\Debug\TrapezoidalArea.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\TrapezoidalArea\bin\Debug\TrapezoidalArea.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\TrapezoidalArea\bin\Debug\TrapezoidalArea.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\TrapezoidalArea\obj\Debug\014TrapezoidalArea.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\TrapezoidalArea\obj\Debug\014TrapezoidalArea.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\TrapezoidalArea\obj\Debug\TrapezoidalArea.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\TrapezoidalArea\obj\Debug\TrapezoidalArea.pdb

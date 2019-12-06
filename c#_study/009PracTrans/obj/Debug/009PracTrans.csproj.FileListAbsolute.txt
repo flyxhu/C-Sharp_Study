@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\bin\Debug\009PracTrans.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\bin\Debug\009PracTrans.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\bin\Debug\009PracTrans.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTrans.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTrans.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTrans.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTrans.pdb

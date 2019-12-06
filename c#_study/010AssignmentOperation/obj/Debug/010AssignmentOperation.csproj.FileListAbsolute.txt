@@ -1,0 +1,6 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\bin\Debug\010AssignmentOperation.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\bin\Debug\010AssignmentOperation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\bin\Debug\010AssignmentOperation.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\obj\Debug\010AssignmentOperation.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\obj\Debug\010AssignmentOperation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\obj\Debug\010AssignmentOperation.pdb

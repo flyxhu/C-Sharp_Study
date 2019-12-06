@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\bin\Debug\002VriableType.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\bin\Debug\002VriableType.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\bin\Debug\002VriableType.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002VriableType.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002VriableType.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002VriableType.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002VriableType.csprojAssemblyReference.cache

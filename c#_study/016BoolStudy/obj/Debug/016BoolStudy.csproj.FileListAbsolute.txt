@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\obj\Debug\016BoolStudy.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\obj\Debug\016BoolStudy.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\bin\Debug\016BoolStudy.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\bin\Debug\016BoolStudy.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\bin\Debug\016BoolStudy.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\obj\Debug\016BoolStudy.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\obj\Debug\016BoolStudy.pdb

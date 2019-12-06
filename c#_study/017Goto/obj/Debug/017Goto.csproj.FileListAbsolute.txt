@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\bin\Debug\017Goto.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\bin\Debug\017Goto.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\bin\Debug\017Goto.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.pdb

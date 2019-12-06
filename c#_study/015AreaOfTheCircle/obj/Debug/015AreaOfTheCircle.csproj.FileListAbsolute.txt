@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\bin\Debug\015AreaOfTheCircle.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\bin\Debug\015AreaOfTheCircle.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\bin\Debug\015AreaOfTheCircle.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.pdb

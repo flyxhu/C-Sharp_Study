@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\011VriableChange\bin\Debug\011VriableChange.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\011VriableChange\bin\Debug\011VriableChange.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\011VriableChange\bin\Debug\011VriableChange.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\011VriableChange\obj\Debug\011VriableChange.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\011VriableChange\obj\Debug\011VriableChange.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\011VriableChange\obj\Debug\011VriableChange.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\011VriableChange\obj\Debug\011VriableChange.csprojAssemblyReference.cache

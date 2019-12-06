@@ -1,0 +1,6 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Operation\bin\Debug\Operation.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Operation\bin\Debug\Operation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Operation\bin\Debug\Operation.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Operation\obj\Debug\005Operation.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Operation\obj\Debug\Operation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\Operation\obj\Debug\Operation.pdb

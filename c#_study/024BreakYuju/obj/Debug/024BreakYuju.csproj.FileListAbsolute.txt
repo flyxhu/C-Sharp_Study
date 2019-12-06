@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\bin\Debug\024BreakYuju.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\bin\Debug\024BreakYuju.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\bin\Debug\024BreakYuju.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuju.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuju.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuju.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuju.pdb

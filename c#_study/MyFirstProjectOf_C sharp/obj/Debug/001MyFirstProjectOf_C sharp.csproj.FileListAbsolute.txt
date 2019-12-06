@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.pdb

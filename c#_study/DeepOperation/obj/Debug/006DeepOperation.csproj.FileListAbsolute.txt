@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\DeepOperation\bin\Debug\DeepOperation.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\DeepOperation\bin\Debug\DeepOperation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\DeepOperation\bin\Debug\DeepOperation.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\DeepOperation\obj\Debug\006DeepOperation.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\DeepOperation\obj\Debug\006DeepOperation.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\DeepOperation\obj\Debug\DeepOperation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\DeepOperation\obj\Debug\DeepOperation.pdb

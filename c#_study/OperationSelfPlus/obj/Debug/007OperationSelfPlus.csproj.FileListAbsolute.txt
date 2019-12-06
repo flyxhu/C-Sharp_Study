@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\bin\Debug\OperationSelfPlus.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\bin\Debug\OperationSelfPlus.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\bin\Debug\OperationSelfPlus.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\007OperationSelfPlus.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\OperationSelfPlus.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\OperationSelfPlus.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\007OperationSelfPlus.csprojAssemblyReference.cache

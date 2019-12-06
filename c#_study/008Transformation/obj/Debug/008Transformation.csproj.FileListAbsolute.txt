@@ -1,0 +1,6 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\bin\Debug\008Transformation.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\bin\Debug\008Transformation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\bin\Debug\008Transformation.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\obj\Debug\008Transformation.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\obj\Debug\008Transformation.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\obj\Debug\008Transformation.pdb

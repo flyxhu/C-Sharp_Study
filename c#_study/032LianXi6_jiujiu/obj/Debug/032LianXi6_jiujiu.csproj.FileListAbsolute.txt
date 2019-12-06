@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.pdb

@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\004EscapeZy\bin\Debug\004EscapeZy.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\004EscapeZy\bin\Debug\004EscapeZy.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\004EscapeZy\bin\Debug\004EscapeZy.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\004EscapeZy\obj\Debug\004EscapeZy.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\004EscapeZy\obj\Debug\004EscapeZy.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\004EscapeZy\obj\Debug\004EscapeZy.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\004EscapeZy\obj\Debug\004EscapeZy.csprojAssemblyReference.cache

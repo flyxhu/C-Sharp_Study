@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\027LianXi\obj\Debug\027LianXi.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\027LianXi\obj\Debug\027LianXi.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\027LianXi\bin\Debug\027LianXi.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\027LianXi\bin\Debug\027LianXi.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\027LianXi\bin\Debug\027LianXi.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\027LianXi\obj\Debug\027LianXi.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\027LianXi\obj\Debug\027LianXi.pdb

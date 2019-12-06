@@ -1,0 +1,6 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\022WhileXunhuan\obj\Debug\022WhileXunhuan.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\022WhileXunhuan\bin\Debug\022WhileXunhuan.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\022WhileXunhuan\bin\Debug\022WhileXunhuan.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\022WhileXunhuan\bin\Debug\022WhileXunhuan.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\022WhileXunhuan\obj\Debug\022WhileXunhuan.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\022WhileXunhuan\obj\Debug\022WhileXunhuan.pdb

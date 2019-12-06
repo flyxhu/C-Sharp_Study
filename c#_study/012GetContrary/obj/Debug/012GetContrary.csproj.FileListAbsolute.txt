@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\012GetContrary\bin\Debug\012GetContrary.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\012GetContrary\bin\Debug\012GetContrary.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\012GetContrary\bin\Debug\012GetContrary.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\012GetContrary\obj\Debug\012GetContrary.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\012GetContrary\obj\Debug\012GetContrary.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\012GetContrary\obj\Debug\012GetContrary.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\012GetContrary\obj\Debug\012GetContrary.pdb

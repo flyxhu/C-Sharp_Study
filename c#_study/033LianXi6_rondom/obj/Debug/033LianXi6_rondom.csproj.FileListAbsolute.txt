@@ -1,0 +1,6 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\033LianXi6_rondom\bin\Debug\033LianXi6_rondom.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\033LianXi6_rondom\bin\Debug\033LianXi6_rondom.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\033LianXi6_rondom\bin\Debug\033LianXi6_rondom.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\033LianXi6_rondom\obj\Debug\033LianXi6_rondom.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\033LianXi6_rondom\obj\Debug\033LianXi6_rondom.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\033LianXi6_rondom\obj\Debug\033LianXi6_rondom.pdb

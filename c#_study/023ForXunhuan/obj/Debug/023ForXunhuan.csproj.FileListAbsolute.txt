@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\bin\Debug\023ForXunhuan.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\bin\Debug\023ForXunhuan.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\bin\Debug\023ForXunhuan.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunhuan.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunhuan.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunhuan.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunhuan.pdb

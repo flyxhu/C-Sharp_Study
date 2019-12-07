@@ -1,5 +1,6 @@
-#忽略文件 >20191105
+/no_use
 *.vshost.exe
 *.vshost.exe.config
 *.vshost.exe.mainfest
+*.suo
 *.zip

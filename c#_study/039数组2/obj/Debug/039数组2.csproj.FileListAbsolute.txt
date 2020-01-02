@@ -1,0 +1,5 @@
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\039数组2\bin\Debug\039数组2.exe.config
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\039数组2\bin\Debug\039数组2.exe
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\039数组2\bin\Debug\039数组2.pdb
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\039数组2\obj\Debug\039数组2.exe
+C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\039数组2\obj\Debug\039数组2.pdb

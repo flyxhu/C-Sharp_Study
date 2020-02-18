@@ -11,3 +11,6 @@ C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study
 C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.exe
 C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.pdb
 C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.exe.config
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.exe
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.pdb

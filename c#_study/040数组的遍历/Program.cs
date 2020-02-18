@@ -28,11 +28,13 @@ namespace _040数组的遍历
 
             Console.WriteLine();
             //***第三种遍历方式，foreach遍历
-            foreach(int temp in scores) //foreath会依次取到数组中的值，然后赋值给temp，然后执行循环体
+            foreach(int temp in scores) //foreath会依次取到数组中的值，然后赋值给temp，(temp是一个临时变量，可以换掉。)然后执行循环体
             {
                 Console.WriteLine(temp);            
             }
            Console.ReadKey();
+
         }
+
     }
 }

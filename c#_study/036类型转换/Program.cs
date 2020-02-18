@@ -32,13 +32,14 @@ namespace _036类型转换
             byte Mybyte_b = (byte)Myfloat1;
 
             double Mydouble1 = 103;
-            byte Mybyte_c = (byte)Mydouble;
+            byte Mybyte_c = (byte)Mydouble1;
 
             long Mylong1 = 104;
             byte Mybyte_d = (byte)Mylong1;
 
             byte Mybyte5 = 97;
             char Mychar = (char)Mybyte5;
+
 
             Console.WriteLine("{0}\n{1}\n{2}\n{3}\n{4}\n{5}\n{6}\n{7}\n{8}", Myint, Myfloat, Mydouble, 
                 Mylong, Mybyte_a, Mybyte_b, Mybyte_c, Mybyte_d, Mychar);

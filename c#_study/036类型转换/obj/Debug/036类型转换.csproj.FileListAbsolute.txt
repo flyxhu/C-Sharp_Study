@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类�
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类型转换.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类型转换.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\036类型转换\obj\Debug\036类型转换.pdb
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\036类型转换\bin\Debug\036类型转换.exe.config
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\036类型转换\obj\Debug\036类型转换.exe
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\036类型转换\obj\Debug\036类型转换.pdb
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\036类型转换\bin\Debug\036类型转换.exe
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\036类型转换\bin\Debug\036类型转换.pdb
+C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\036类型转换\obj\Debug\036类型转换.csprojResolveAssemblyReference.cache

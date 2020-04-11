@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunh
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunhuan.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunhuan.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\023ForXunhuan\obj\Debug\023ForXunhuan.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\023ForXunhuan\bin\Debug\023ForXunhuan.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\023ForXunhuan\bin\Debug\023ForXunhuan.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\023ForXunhuan\bin\Debug\023ForXunhuan.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\023ForXunhuan\obj\Debug\023ForXunhuan.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\023ForXunhuan\obj\Debug\023ForXunhuan.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\023ForXunhuan\obj\Debug\023ForXunhuan.pdb

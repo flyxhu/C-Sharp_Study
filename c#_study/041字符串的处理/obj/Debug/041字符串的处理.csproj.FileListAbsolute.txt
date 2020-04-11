@@ -9,3 +9,9 @@ D:\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\041字符串的�
 D:\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\041字符串的处理\bin\Debug\041字符串的处理.exe
 D:\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\041字符串的处理\bin\Debug\041字符串的处理.pdb
 D:\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\041字符串的处理\obj\Debug\041字符串的处理.csprojResolveAssemblyReference.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\041字符串的处理\bin\Debug\041字符串的处理.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\041字符串的处理\bin\Debug\041字符串的处理.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\041字符串的处理\bin\Debug\041字符串的处理.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\041字符串的处理\obj\Debug\041字符串的处理.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\041字符串的处理\obj\Debug\041字符串的处理.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\041字符串的处理\obj\Debug\041字符串的处理.pdb

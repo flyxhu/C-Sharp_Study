@@ -5,3 +5,10 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\003StorePrimaryInfo\obj\Debug\003S
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.pdb
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csprojAssemblyReference.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csprojAssemblyReference.cache

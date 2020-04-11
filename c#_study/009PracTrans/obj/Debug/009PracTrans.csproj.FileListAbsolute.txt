@@ -5,3 +5,10 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTran
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTrans.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTrans.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\009PracTrans\obj\Debug\009PracTrans.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\bin\Debug\009PracTrans.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\bin\Debug\009PracTrans.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\bin\Debug\009PracTrans.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\obj\Debug\009PracTrans.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\obj\Debug\009PracTrans.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\obj\Debug\009PracTrans.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\obj\Debug\009PracTrans.csprojAssemblyReference.cache

@@ -1,0 +1,24 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\038_枚举2\obj\Debug\038枚举2.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\038_枚举2\bin\Debug\038_枚举2.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\038_枚举2\bin\Debug\038_枚举2.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\038_枚举2\bin\Debug\038_枚举2.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\038_枚举2\obj\Debug\038_枚举2.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\038_枚举2\obj\Debug\038_枚举2.pdb
+E:\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\bin\Debug\038_枚举2.exe.config
+E:\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\bin\Debug\038_枚举2.exe
+E:\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\bin\Debug\038_枚举2.pdb
+E:\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\obj\Debug\038枚举2.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\obj\Debug\038_枚举2.exe
+E:\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\obj\Debug\038_枚举2.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\bin\Debug\038_枚举2.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\bin\Debug\038_枚举2.exe
+E:\My File\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\bin\Debug\038_枚举2.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\obj\Debug\038枚举2.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\obj\Debug\038_枚举2.exe
+E:\My File\v_huixhu\VisionStudioProjects\C#个人学习\038_枚举2\obj\Debug\038_枚举2.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038_枚举2\bin\Debug\038_枚举2.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038_枚举2\bin\Debug\038_枚举2.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038_枚举2\bin\Debug\038_枚举2.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038_枚举2\obj\Debug\038枚举2.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038_枚举2\obj\Debug\038_枚举2.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038_枚举2\obj\Debug\038_枚举2.pdb

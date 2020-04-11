@@ -1,0 +1,7 @@
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\037枚举\bin\Debug\037枚举.exe.config
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\037枚举\bin\Debug\037枚举.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\037枚举\bin\Debug\037枚举.pdb
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\037枚举\obj\Debug\037枚举.csprojAssemblyReference.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\037枚举\obj\Debug\037枚举.csproj.CoreCompileInputs.cache
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\037枚举\obj\Debug\037枚举.exe
+E:\v_huixhu\VisionStudioProjects\C sharpStudy\037枚举\obj\Debug\037枚举.pdb

@@ -1,0 +1,6 @@
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\034LianXi\bin\Debug\034LianXi.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\034LianXi\bin\Debug\034LianXi.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\034LianXi\bin\Debug\034LianXi.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\034LianXi\obj\Debug\034LianXi_三种方法输出平方.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\034LianXi\obj\Debug\034LianXi.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\034LianXi\obj\Debug\034LianXi.pdb

@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuj
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuju.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuju.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\024BreakYuju\obj\Debug\024BreakYuju.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\024BreakYuju\bin\Debug\024BreakYuju.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\024BreakYuju\bin\Debug\024BreakYuju.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\024BreakYuju\bin\Debug\024BreakYuju.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\024BreakYuju\obj\Debug\024BreakYuju.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\024BreakYuju\obj\Debug\024BreakYuju.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\024BreakYuju\obj\Debug\024BreakYuju.pdb

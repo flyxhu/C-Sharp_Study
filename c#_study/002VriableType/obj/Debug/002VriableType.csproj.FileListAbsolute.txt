@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002Vriabl
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002VriableType.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002VriableType.pdb
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\002VriableType\obj\Debug\002VriableType.csprojAssemblyReference.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\bin\Debug\002VriableType.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\bin\Debug\002VriableType.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\bin\Debug\002VriableType.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\obj\Debug\002VriableType.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\obj\Debug\002VriableType.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\obj\Debug\002VriableType.pdb

@@ -1,0 +1,6 @@
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\030LianXi\bin\Debug\030LianXi.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\030LianXi\bin\Debug\030LianXi.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\030LianXi\bin\Debug\030LianXi.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\030LianXi\obj\Debug\030LianXi4_for嵌套.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\030LianXi\obj\Debug\030LianXi.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\030LianXi\obj\Debug\030LianXi.pdb

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4FEEC313-AB4A-4135-A16C-966B201E1860}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DeepOperation</RootNamespace>
-    <AssemblyName>DeepOperation</AssemblyName>
+    <RootNamespace>_006DeepOperation</RootNamespace>
+    <AssemblyName>006DeepOperation</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

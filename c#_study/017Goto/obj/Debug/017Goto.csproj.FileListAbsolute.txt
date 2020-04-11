@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.csprojAs
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\017Goto\obj\Debug\017Goto.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\bin\Debug\017Goto.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\bin\Debug\017Goto.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\bin\Debug\017Goto.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\obj\Debug\017Goto.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\obj\Debug\017Goto.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\obj\Debug\017Goto.pdb

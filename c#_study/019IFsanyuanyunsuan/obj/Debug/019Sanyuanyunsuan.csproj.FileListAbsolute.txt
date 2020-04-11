@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\019IFsanyuanyunsuan\obj\Debug\019S
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.pdb
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\019IFsanyuanyunsuan\obj\Debug\019Sanyuanyunsuan.csprojAssemblyReference.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\bin\Debug\019IFsanyuanyunsuan.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\bin\Debug\019IFsanyuanyunsuan.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\bin\Debug\019IFsanyuanyunsuan.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\obj\Debug\019Sanyuanyunsuan.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.pdb

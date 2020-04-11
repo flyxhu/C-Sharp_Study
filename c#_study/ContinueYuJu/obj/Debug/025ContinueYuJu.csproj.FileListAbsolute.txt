@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\ContinueYuJu\bin\Debug\ContinueYuJ
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\ContinueYuJu\obj\Debug\ContinueYuJu.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\ContinueYuJu\obj\Debug\ContinueYuJu.pdb
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\ContinueYuJu\obj\Debug\025ContinueYuJu.csprojAssemblyReference.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\bin\Debug\ContinueYuJu.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\bin\Debug\ContinueYuJu.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\bin\Debug\ContinueYuJu.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\obj\Debug\025ContinueYuJu.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\obj\Debug\ContinueYuJu.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\obj\Debug\ContinueYuJu.pdb

@@ -4,3 +4,10 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\bin\Debug\008Tra
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\obj\Debug\008Transformation.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\obj\Debug\008Transformation.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\008Transformation\obj\Debug\008Transformation.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\bin\Debug\008Transformation.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\bin\Debug\008Transformation.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\bin\Debug\008Transformation.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\obj\Debug\008Transformation.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\obj\Debug\008Transformation.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\obj\Debug\008Transformation.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\obj\Debug\008Transformation.csprojAssemblyReference.cache

@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\021CaseYuju\obj\Debug\021CaseYuju.
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\021CaseYuju\obj\Debug\021CaseYuju.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\021CaseYuju\obj\Debug\021CaseYuju.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\021CaseYuju\obj\Debug\021CaseYuju.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\021CaseYuju\bin\Debug\021CaseYuju.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\021CaseYuju\bin\Debug\021CaseYuju.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\021CaseYuju\bin\Debug\021CaseYuju.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\021CaseYuju\obj\Debug\021CaseYuju.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\021CaseYuju\obj\Debug\021CaseYuju.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\021CaseYuju\obj\Debug\021CaseYuju.pdb

@@ -14,3 +14,9 @@ C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study
 C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\MyFirstProjectOf_C sharp.exe.config
 C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.exe
 C:\Users\Lindom Hui\Documents\My Files\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\MyFirstProjectOf_C sharp.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\bin\Debug\001MyFirstProjectOf_C sharp.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\bin\Debug\001MyFirstProjectOf_C sharp.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\bin\Debug\001MyFirstProjectOf_C sharp.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.pdb

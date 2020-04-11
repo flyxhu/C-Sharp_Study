@@ -1,0 +1,6 @@
+E:\My File\v_huixhu\VisionStudioProjects\039枚举\bin\Debug\043枚举2.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\039枚举\bin\Debug\043枚举2.exe
+E:\My File\v_huixhu\VisionStudioProjects\039枚举\bin\Debug\043枚举2.pdb
+E:\My File\v_huixhu\VisionStudioProjects\039枚举\obj\Debug\043枚举2.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\039枚举\obj\Debug\043枚举2.exe
+E:\My File\v_huixhu\VisionStudioProjects\039枚举\obj\Debug\043枚举2.pdb

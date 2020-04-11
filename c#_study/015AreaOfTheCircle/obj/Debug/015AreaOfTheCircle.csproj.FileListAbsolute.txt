@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015Ar
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\015AreaOfTheCircle\bin\Debug\015AreaOfTheCircle.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\015AreaOfTheCircle\bin\Debug\015AreaOfTheCircle.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\015AreaOfTheCircle\bin\Debug\015AreaOfTheCircle.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\015AreaOfTheCircle\obj\Debug\015AreaOfTheCircle.pdb

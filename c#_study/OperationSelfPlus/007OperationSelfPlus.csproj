@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8AD1223F-3141-4049-839C-8160F97F12D8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OperationSelfPlus</RootNamespace>
-    <AssemblyName>OperationSelfPlus</AssemblyName>
+    <RootNamespace>_007OperationSelfPlus</RootNamespace>
+    <AssemblyName>007OperationSelfPlus</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

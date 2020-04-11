@@ -5,3 +5,10 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\007Ope
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\OperationSelfPlus.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\OperationSelfPlus.pdb
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\OperationSelfPlus\obj\Debug\007OperationSelfPlus.csprojAssemblyReference.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\bin\Debug\007OperationSelfPlus.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\bin\Debug\007OperationSelfPlus.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\bin\Debug\007OperationSelfPlus.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.csprojAssemblyReference.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.pdb

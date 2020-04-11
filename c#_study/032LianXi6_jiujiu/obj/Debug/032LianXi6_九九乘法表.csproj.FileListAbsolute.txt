@@ -1,0 +1,6 @@
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_九九乘法表.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.pdb

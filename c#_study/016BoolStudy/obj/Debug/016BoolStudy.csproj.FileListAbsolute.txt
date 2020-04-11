@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\bin\Debug\016BoolStud
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\bin\Debug\016BoolStudy.pdb
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\obj\Debug\016BoolStudy.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\016BoolStudy\obj\Debug\016BoolStudy.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\bin\Debug\016BoolStudy.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\bin\Debug\016BoolStudy.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\bin\Debug\016BoolStudy.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\obj\Debug\016BoolStudy.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\obj\Debug\016BoolStudy.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\obj\Debug\016BoolStudy.pdb

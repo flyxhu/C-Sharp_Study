@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{60A53A30-0A60-4276-B429-E9DC62F46B85}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MyFirstProjectOf_C_sharp</RootNamespace>
-    <AssemblyName>MyFirstProjectOf_C sharp</AssemblyName>
+    <RootNamespace>_001MyFirstProjectOf_C_sharp</RootNamespace>
+    <AssemblyName>001MyFirstProjectOf_C sharp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

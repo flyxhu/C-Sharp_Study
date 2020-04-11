@@ -4,3 +4,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\bin\Debug\0
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\obj\Debug\010AssignmentOperation.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\obj\Debug\010AssignmentOperation.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\010AssignmentOperation\obj\Debug\010AssignmentOperation.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\010AssignmentOperation\bin\Debug\010AssignmentOperation.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\010AssignmentOperation\bin\Debug\010AssignmentOperation.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\010AssignmentOperation\bin\Debug\010AssignmentOperation.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\010AssignmentOperation\obj\Debug\010AssignmentOperation.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\010AssignmentOperation\obj\Debug\010AssignmentOperation.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\010AssignmentOperation\obj\Debug\010AssignmentOperation.pdb

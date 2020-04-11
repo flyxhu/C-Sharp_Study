@@ -5,3 +5,9 @@ E:\v_huixhu\VisionStudioProjects\C sharpStudy\020ElseIF\obj\Debug\020ElseIF.cspr
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\020ElseIF\obj\Debug\020ElseIF.csproj.CoreCompileInputs.cache
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\020ElseIF\obj\Debug\020ElseIF.exe
 E:\v_huixhu\VisionStudioProjects\C sharpStudy\020ElseIF\obj\Debug\020ElseIF.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\020ElseIF\bin\Debug\020ElseIF.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\020ElseIF\bin\Debug\020ElseIF.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\020ElseIF\bin\Debug\020ElseIF.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\020ElseIF\obj\Debug\020ElseIF.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\020ElseIF\obj\Debug\020ElseIF.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\020ElseIF\obj\Debug\020ElseIF.pdb

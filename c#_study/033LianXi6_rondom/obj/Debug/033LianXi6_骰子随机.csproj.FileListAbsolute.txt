@@ -1,0 +1,6 @@
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\033LianXi6_rondom\bin\Debug\033LianXi6_rondom.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\033LianXi6_rondom\bin\Debug\033LianXi6_rondom.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\033LianXi6_rondom\bin\Debug\033LianXi6_rondom.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\033LianXi6_rondom\obj\Debug\033LianXi6_骰子随机.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\033LianXi6_rondom\obj\Debug\033LianXi6_rondom.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\033LianXi6_rondom\obj\Debug\033LianXi6_rondom.pdb

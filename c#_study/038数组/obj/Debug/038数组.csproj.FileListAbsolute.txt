@@ -3,3 +3,9 @@ C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study
 C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\038数组\bin\Debug\038数组.pdb
 C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\038数组\obj\Debug\038数组.exe
 C:\Users\Lindom Hui\Documents\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\038数组\obj\Debug\038数组.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038数组\bin\Debug\038数组.exe.config
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038数组\bin\Debug\038数组.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038数组\bin\Debug\038数组.pdb
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038数组\obj\Debug\038数组.csproj.CoreCompileInputs.cache
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038数组\obj\Debug\038数组.exe
+E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\038数组\obj\Debug\038数组.pdb

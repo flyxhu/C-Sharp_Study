@@ -1,5 +1,5 @@
 # C-Sharp_Study
-*** data 2019-12-06***
+- data 2019-12-06
 
 ### 概要
 * It's a repository to learn C#.

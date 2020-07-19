@@ -1,0 +1,7 @@
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\051错误调试\bin\Debug\051错误调试.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\051错误调试\bin\Debug\051错误调试.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\051错误调试\bin\Debug\051错误调试.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\051错误调试\obj\Debug\051错误调试.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\051错误调试\obj\Debug\051错误调试.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\051错误调试\obj\Debug\051错误调试.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\051错误调试\obj\Debug\051错误调试.pdb

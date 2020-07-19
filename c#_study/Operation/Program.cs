@@ -23,7 +23,7 @@ namespace _005Operation
 
             Console.WriteLine("加法的结果:{0};\n减法的结果:{1};\n乘法的结果:{2};\n除法的结果:{3};\n", res1, res2, res3, res4);
             Console.WriteLine("取余的结果:{0};\n{1}", res5,res6);
-
+                 
             Console.ReadKey();           
         }
     }

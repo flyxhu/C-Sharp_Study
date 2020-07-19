@@ -12,6 +12,7 @@ namespace _035LianXi_判断字符大小写
         {
             while (true)
             {
+                
                 string str = Console.ReadLine();
                 if (str.Length == 5)
                 {

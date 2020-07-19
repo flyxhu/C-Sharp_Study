@@ -14,8 +14,9 @@ namespace _003_Store_the_main_character
             string primaryName = "玲子";
             byte bloodV = 98;       //也可以使用int
             byte level = 13;        //也可以使用int
-            float exp = 135.6f;
-            Console.WriteLine("主角的昵称:{0};\n血量:{1};\n等级:{2};\n经验值:{3}", primaryName, bloodV, level, exp);
+            //float exp = 135.6f;
+            double exp1 = 135.6;
+            Console.WriteLine("主角的昵称:{0};\n血量:{1};\n等级:{2};\n经验值:{3}", primaryName, bloodV, level, exp1);
             Console.ReadKey();
         }
     }

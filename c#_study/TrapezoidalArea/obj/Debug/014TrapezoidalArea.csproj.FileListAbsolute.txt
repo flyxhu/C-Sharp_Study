@@ -11,3 +11,10 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Trapezoid
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\obj\Debug\014TrapezoidalArea.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\obj\Debug\TrapezoidalArea.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\obj\Debug\TrapezoidalArea.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\bin\Debug\TrapezoidalArea.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\bin\Debug\TrapezoidalArea.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\bin\Debug\TrapezoidalArea.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\obj\Debug\014TrapezoidalArea.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\obj\Debug\014TrapezoidalArea.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\obj\Debug\TrapezoidalArea.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\TrapezoidalArea\obj\Debug\TrapezoidalArea.pdb

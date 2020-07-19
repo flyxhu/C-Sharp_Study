@@ -26,4 +26,13 @@ namespace _001My_First_Project_Of_C_Sharp
 
         }
     }
+    //class Program1
+    //{
+    //    static void Main1(string[] args)
+    //    {
+    //        Console.WriteLine("Hello,现在开始测试");
+    //        Console.ReadKey();
+
+    //    }
+    //}
 }

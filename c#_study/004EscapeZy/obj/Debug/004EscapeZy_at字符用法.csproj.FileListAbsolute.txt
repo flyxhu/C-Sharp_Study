@@ -5,3 +5,10 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004Escape
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy.pdb
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy_at字符用法.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\bin\Debug\004EscapeZy.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\bin\Debug\004EscapeZy.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\bin\Debug\004EscapeZy.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy_at字符用法.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy_at字符用法.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy.pdb

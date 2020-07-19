@@ -1,0 +1,7 @@
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\bin\Debug\056类的定义和使用.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\bin\Debug\056类的定义和使用.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\bin\Debug\056类的定义和使用.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.pdb

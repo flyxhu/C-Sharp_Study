@@ -5,3 +5,10 @@ E:\My File\v_huixhu\VisionStudioProjects\038_枚举2\obj\Debug\042枚举.csproj.
 E:\My File\v_huixhu\VisionStudioProjects\038_枚举2\obj\Debug\042_枚举.exe
 E:\My File\v_huixhu\VisionStudioProjects\038_枚举2\obj\Debug\042_枚举.pdb
 E:\My File\v_huixhu\VisionStudioProjects\038_枚举2\obj\Debug\042枚举.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\042_枚举\bin\Debug\042_枚举.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\042_枚举\bin\Debug\042_枚举.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\042_枚举\bin\Debug\042_枚举.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\042_枚举\obj\Debug\042枚举.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\042_枚举\obj\Debug\042枚举.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\042_枚举\obj\Debug\042_枚举.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\042_枚举\obj\Debug\042_枚举.pdb

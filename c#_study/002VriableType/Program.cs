@@ -26,7 +26,7 @@ namespace _002_Variable_type
             //非整数
             char myChar = 'a';                  //字符，规定用单引号表示
             string myString1 = "wea 125";       //字符串，规定用双引号表示，可以为空
-            string myString2 = "h";
+            string myString2 = "";
             bool myBoll = true;                 //布尔型，应用比较判断中
             Console.WriteLine("char_value:{0},string1_value:{1},string2_value:{2},bool_value:{3}", myChar, myString1, myString2, myBoll);
             Console.ReadKey();

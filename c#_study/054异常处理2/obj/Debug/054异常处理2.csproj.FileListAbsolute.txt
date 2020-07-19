@@ -1,0 +1,7 @@
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\054异常处理2\bin\Debug\054异常处理2.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\054异常处理2\bin\Debug\054异常处理2.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\054异常处理2\bin\Debug\054异常处理2.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\054异常处理2\obj\Debug\054异常处理2.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\054异常处理2\obj\Debug\054异常处理2.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\054异常处理2\obj\Debug\054异常处理2.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\054异常处理2\obj\Debug\054异常处理2.csprojAssemblyReference.cache

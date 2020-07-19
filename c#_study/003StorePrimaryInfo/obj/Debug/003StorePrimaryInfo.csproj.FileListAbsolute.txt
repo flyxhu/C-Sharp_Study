@@ -12,3 +12,10 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StoreP
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.pdb
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.pdb

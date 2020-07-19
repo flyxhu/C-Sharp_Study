@@ -19,7 +19,8 @@ namespace _038数组
                 scores2= new int[5]{45,21,14,24,28};
 
             //第三种
-            int[] scores3 = new int[10] { 12, 34, 56, 78, 12, 34, 44, 56, 90, 7 };
+            int[] scores3 = new int[10] { 12, 34, 56, 78, 12, 38, 44, 56, 90, 7 };
+            Console.WriteLine(scores3[0]);
             Console.WriteLine(scores3[5]);
             Console.ReadKey();
         }

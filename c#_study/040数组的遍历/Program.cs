@@ -17,6 +17,15 @@ namespace _040数组的遍历
                 Console.WriteLine(scores[i]);
             }
 
+            //练习
+            int[] scores_2 = { 25, 34, 56, 78, 90, 123, 145, 168, 180 };
+            for (int i_2 = 1; i_2 < scores_2.Length; i_2++)
+            {
+                Console.WriteLine(scores[i_2]);
+            }
+
+
+            
             Console.WriteLine();
             //第二种遍历方式，While循环遍历
             int j = 0;
@@ -28,12 +37,12 @@ namespace _040数组的遍历
 
             Console.WriteLine();
             //***第三种遍历方式，foreach遍历
-            foreach(int temp in scores) //foreath会依次取到数组中的值，然后赋值给temp，(temp是一个临时变量，可以换掉。)然后执行循环体
+            foreach (int temp in scores) //foreath会依次取到数组中的值，然后赋值给temp，(temp是一个临时变量，可以换掉。)然后执行循环体
             {
-                Console.WriteLine(temp);            
+                Console.WriteLine(temp);
             }
-           Console.ReadKey();
-
+            Console.ReadKey();
+            
         }
 
     }

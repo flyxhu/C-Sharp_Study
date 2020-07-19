@@ -11,3 +11,9 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\bin\Debug\035LianXi_判断字符大小写.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\bin\Debug\035LianXi_判断字符大小写.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\bin\Debug\035LianXi_判断字符大小写.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\035LianXi_判断字符大小写\obj\Debug\035LianXi_判断字符大小写.pdb

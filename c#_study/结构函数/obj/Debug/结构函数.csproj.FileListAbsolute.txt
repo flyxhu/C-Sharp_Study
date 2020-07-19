@@ -1,0 +1,7 @@
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数\bin\Debug\结构函数.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数\bin\Debug\结构函数.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数\bin\Debug\结构函数.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数\obj\Debug\结构函数.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数\obj\Debug\结构函数.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数\obj\Debug\结构函数.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数\obj\Debug\结构函数.pdb

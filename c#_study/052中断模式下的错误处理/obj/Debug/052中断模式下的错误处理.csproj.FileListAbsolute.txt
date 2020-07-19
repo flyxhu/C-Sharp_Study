@@ -1,0 +1,6 @@
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\052中断模式下的错误处理\bin\Debug\052中断模式下的错误处理.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\052中断模式下的错误处理\bin\Debug\052中断模式下的错误处理.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\052中断模式下的错误处理\bin\Debug\052中断模式下的错误处理.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\052中断模式下的错误处理\obj\Debug\052中断模式下的错误处理.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\052中断模式下的错误处理\obj\Debug\052中断模式下的错误处理.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\052中断模式下的错误处理\obj\Debug\052中断模式下的错误处理.pdb

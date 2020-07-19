@@ -1,0 +1,7 @@
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\bin\Debug\055面向对象编程_类.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\bin\Debug\055面向对象编程_类.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\bin\Debug\055面向对象编程_类.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.pdb

@@ -12,17 +12,17 @@ namespace _008Transformation
         {
 
             string str1 = Console.ReadLine();
-            Console.WriteLine(str1);
+            Console.WriteLine("打印str1" + "：" + str1);
         
             string str2 = Console.ReadLine();
-            int num1 = Convert.ToInt32(str2);
-            num1++;
-            Console.WriteLine(num1);
+            int Int1 = Convert.ToInt32(str2);
+            Int1++;
+            Console.WriteLine("打印Int1" + "：" + Int1);
             Console.ReadKey();
 
             string str3 = Console.ReadLine();
-            double num2 = Convert.ToDouble(str3);
-            Console.WriteLine(num2);
+            double doub2 = Convert.ToDouble(str3);
+            Console.WriteLine("打印doub2" + "：" + doub2);
         }
     }
 }

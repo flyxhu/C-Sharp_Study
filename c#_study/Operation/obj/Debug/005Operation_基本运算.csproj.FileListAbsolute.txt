@@ -5,3 +5,10 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation_基本运算.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\bin\Debug\005Operation.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\bin\Debug\005Operation.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\bin\Debug\005Operation.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation_基本运算.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation_基本运算.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation.pdb

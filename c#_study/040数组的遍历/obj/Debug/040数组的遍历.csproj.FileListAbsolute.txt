@@ -15,3 +15,10 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\obj\Debug\040数组的遍历.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\obj\Debug\040数组的遍历.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\obj\Debug\040数组的遍历.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\bin\Debug\040数组的遍历.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\bin\Debug\040数组的遍历.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\bin\Debug\040数组的遍历.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\obj\Debug\040数组的遍历.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\obj\Debug\040数组的遍历.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\obj\Debug\040数组的遍历.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\040数组的遍历\obj\Debug\040数组的遍历.pdb

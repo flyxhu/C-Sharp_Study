@@ -4,3 +4,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\029LianXi
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\029LianXi3\obj\Debug\029LianXi3_求平方及平方根.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\029LianXi3\obj\Debug\029LianXi3.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\029LianXi3\obj\Debug\029LianXi3.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\029LianXi3\bin\Debug\029LianXi3.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\029LianXi3\bin\Debug\029LianXi3.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\029LianXi3\bin\Debug\029LianXi3.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\029LianXi3\obj\Debug\029LianXi3.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\029LianXi3\obj\Debug\029LianXi3.pdb

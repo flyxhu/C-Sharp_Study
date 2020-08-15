@@ -5,3 +5,8 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向�
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\055面向对象编程_类\bin\Debug\055面向对象编程_类.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\055面向对象编程_类\bin\Debug\055面向对象编程_类.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\055面向对象编程_类\bin\Debug\055面向对象编程_类.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\055面向对象编程_类\obj\Debug\055面向对象编程_类.pdb

@@ -12,3 +12,9 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation_基本运算.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation\obj\Debug\005Operation.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Operation\bin\Debug\005Operation.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Operation\bin\Debug\005Operation.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Operation\bin\Debug\005Operation.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Operation\obj\Debug\005Operation_基本运算.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Operation\obj\Debug\005Operation.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Operation\obj\Debug\005Operation.pdb

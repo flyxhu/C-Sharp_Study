@@ -4,3 +4,8 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函�
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数练习\obj\Debug\047结构函数练习.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数练习\obj\Debug\047结构函数练习.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\结构函数练习\obj\Debug\047结构函数练习.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\结构函数练习\bin\Debug\047结构函数练习.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\结构函数练习\bin\Debug\047结构函数练习.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\结构函数练习\bin\Debug\047结构函数练习.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\结构函数练习\obj\Debug\047结构函数练习.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\结构函数练习\obj\Debug\047结构函数练习.pdb

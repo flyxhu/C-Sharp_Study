@@ -12,3 +12,9 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTr
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\obj\Debug\009PracTrans.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\obj\Debug\009PracTrans.pdb
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\009PracTrans\obj\Debug\009PracTrans.csprojAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\009PracTrans\bin\Debug\009PracTrans.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\009PracTrans\bin\Debug\009PracTrans.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\009PracTrans\bin\Debug\009PracTrans.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\009PracTrans\obj\Debug\009PracTrans.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\009PracTrans\obj\Debug\009PracTrans.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\009PracTrans\obj\Debug\009PracTrans.pdb

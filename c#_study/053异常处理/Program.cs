@@ -25,7 +25,8 @@ namespace _053异常处理
             //    Console.WriteLine("执行到这里，捕捉到的异常为访问的数值下标越界了");
             //}
 
-            catch (IndexOutOfRangeException e)
+            catch (IndexOutOfRangeException)
+
             {
 
                 Console.WriteLine("执行到这里，已经捕捉到异常");

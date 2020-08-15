@@ -5,3 +5,8 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的�
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\056类的定义和使用\bin\Debug\056类的定义和使用.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\056类的定义和使用\bin\Debug\056类的定义和使用.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\056类的定义和使用\bin\Debug\056类的定义和使用.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\056类的定义和使用\obj\Debug\056类的定义和使用.pdb

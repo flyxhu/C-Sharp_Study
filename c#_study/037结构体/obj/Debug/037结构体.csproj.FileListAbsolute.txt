@@ -10,3 +10,8 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\037结构�
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\037结构体\obj\Debug\037结构体.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\037结构体\obj\Debug\037结构体.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\037结构体\obj\Debug\037结构体.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\037结构体\bin\Debug\037结构体.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\037结构体\bin\Debug\037结构体.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\037结构体\bin\Debug\037结构体.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\037结构体\obj\Debug\037结构体.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\037结构体\obj\Debug\037结构体.pdb

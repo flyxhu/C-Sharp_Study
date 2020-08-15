@@ -11,3 +11,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Determin\
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Determin\obj\Debug\013Determin.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Determin\obj\Debug\Determin.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Determin\obj\Debug\Determin.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Determin\bin\Debug\Determin.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Determin\bin\Debug\Determin.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Determin\bin\Debug\Determin.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Determin\obj\Debug\Determin.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\Determin\obj\Debug\Determin.pdb

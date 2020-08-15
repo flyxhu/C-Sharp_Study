@@ -11,3 +11,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsany
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\obj\Debug\019Sanyuanyunsuan.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\019IFsanyuanyunsuan\bin\Debug\019IFsanyuanyunsuan.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\019IFsanyuanyunsuan\bin\Debug\019IFsanyuanyunsuan.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\019IFsanyuanyunsuan\bin\Debug\019IFsanyuanyunsuan.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\019IFsanyuanyunsuan\obj\Debug\019IFsanyuanyunsuan.pdb

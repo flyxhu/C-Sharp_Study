@@ -11,3 +11,8 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\043_枚举
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\043_枚举2\obj\Debug\043枚举2.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\043_枚举2\obj\Debug\043枚举2.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\043_枚举2\obj\Debug\043枚举2.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\043_枚举2\bin\Debug\043枚举2.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\043_枚举2\bin\Debug\043枚举2.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\043_枚举2\bin\Debug\043枚举2.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\043_枚举2\obj\Debug\043枚举2.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\043_枚举2\obj\Debug\043枚举2.pdb

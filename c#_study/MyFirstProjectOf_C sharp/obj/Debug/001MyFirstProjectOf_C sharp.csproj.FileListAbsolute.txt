@@ -27,3 +27,9 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstPro
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\001MyFirstProjectOf_C sharp.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\001MyFirstProjectOf_C sharp.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\bin\Debug\001MyFirstProjectOf_C sharp.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\MyFirstProjectOf_C sharp\obj\Debug\001MyFirstProjectOf_C sharp.pdb

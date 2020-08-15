@@ -4,3 +4,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\025GoTOCo
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\025GoTOContinue\obj\Debug\026GoTo标签和return.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\025GoTOContinue\obj\Debug\025GoTOContinue.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\025GoTOContinue\obj\Debug\025GoTOContinue.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\025GoTOContinue\bin\Debug\025GoTOContinue.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\025GoTOContinue\bin\Debug\025GoTOContinue.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\025GoTOContinue\bin\Debug\025GoTOContinue.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\025GoTOContinue\obj\Debug\025GoTOContinue.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\025GoTOContinue\obj\Debug\025GoTOContinue.pdb

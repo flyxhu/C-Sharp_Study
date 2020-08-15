@@ -11,3 +11,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\b
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\obj\Debug\017Goto.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\obj\Debug\017Goto.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\017Goto\obj\Debug\017Goto.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\017Goto\bin\Debug\017Goto.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\017Goto\bin\Debug\017Goto.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\017Goto\bin\Debug\017Goto.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\017Goto\obj\Debug\017Goto.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\017Goto\obj\Debug\017Goto.pdb

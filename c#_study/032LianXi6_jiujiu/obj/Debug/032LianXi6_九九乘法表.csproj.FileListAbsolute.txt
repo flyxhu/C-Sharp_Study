@@ -4,3 +4,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_九九乘法表.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\032LianXi6_jiujiu\bin\Debug\032LianXi6_jiujiu.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\032LianXi6_jiujiu\obj\Debug\032LianXi6_jiujiu.pdb

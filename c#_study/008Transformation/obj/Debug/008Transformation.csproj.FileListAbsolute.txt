@@ -18,3 +18,9 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transfo
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\obj\Debug\008Transformation.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\obj\Debug\008Transformation.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\008Transformation\obj\Debug\008Transformation.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\008Transformation\bin\Debug\008Transformation.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\008Transformation\bin\Debug\008Transformation.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\008Transformation\bin\Debug\008Transformation.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\008Transformation\obj\Debug\008Transformation.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\008Transformation\obj\Debug\008Transformation.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\008Transformation\obj\Debug\008Transformation.pdb

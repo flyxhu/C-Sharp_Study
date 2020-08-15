@@ -12,3 +12,9 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\DeepOpera
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\DeepOperation\obj\Debug\006DeepOperation.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\DeepOperation\obj\Debug\006DeepOperation.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\DeepOperation\obj\Debug\006DeepOperation.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\DeepOperation\bin\Debug\006DeepOperation.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\DeepOperation\bin\Debug\006DeepOperation.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\DeepOperation\bin\Debug\006DeepOperation.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\DeepOperation\obj\Debug\006DeepOperation.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\DeepOperation\obj\Debug\006DeepOperation.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\DeepOperation\obj\Debug\006DeepOperation.pdb

@@ -29,5 +29,6 @@ namespace _057类的定义和使用2
             return (float)Math.Sqrt(x * x + y * y + z * z);
 
         }
+        
     }
 }

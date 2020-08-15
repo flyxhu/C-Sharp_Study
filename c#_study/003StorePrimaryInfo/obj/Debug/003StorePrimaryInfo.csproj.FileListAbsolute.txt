@@ -19,3 +19,9 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePr
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\003StorePrimaryInfo\bin\Debug\003StorePrimaryInfo.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\003StorePrimaryInfo\obj\Debug\003StorePrimaryInfo.pdb

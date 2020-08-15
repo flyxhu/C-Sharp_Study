@@ -12,3 +12,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\Operation
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\OperationSelfPlus\bin\Debug\007OperationSelfPlus.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\OperationSelfPlus\bin\Debug\007OperationSelfPlus.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\OperationSelfPlus\bin\Debug\007OperationSelfPlus.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\OperationSelfPlus\obj\Debug\007OperationSelfPlus.pdb

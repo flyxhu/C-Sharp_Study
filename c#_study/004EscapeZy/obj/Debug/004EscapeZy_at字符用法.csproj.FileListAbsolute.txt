@@ -12,3 +12,9 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZ
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy_at字符用法.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\004EscapeZy\obj\Debug\004EscapeZy.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\004EscapeZy\bin\Debug\004EscapeZy.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\004EscapeZy\bin\Debug\004EscapeZy.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\004EscapeZy\bin\Debug\004EscapeZy.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\004EscapeZy\obj\Debug\004EscapeZy_at字符用法.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\004EscapeZy\obj\Debug\004EscapeZy.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\004EscapeZy\obj\Debug\004EscapeZy.pdb

@@ -17,3 +17,9 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002Vriable
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\obj\Debug\002VriableType.csproj.CoreCompileInputs.cache
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\obj\Debug\002VriableType.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\002VriableType\obj\Debug\002VriableType.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\002VriableType\bin\Debug\002VriableType.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\002VriableType\bin\Debug\002VriableType.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\002VriableType\bin\Debug\002VriableType.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\002VriableType\obj\Debug\002VriableType.csprojResolveAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\002VriableType\obj\Debug\002VriableType.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\002VriableType\obj\Debug\002VriableType.pdb

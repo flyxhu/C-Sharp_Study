@@ -11,3 +11,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\012GetCon
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\012GetContrary\obj\Debug\012GetContrary.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\012GetContrary\obj\Debug\012GetContrary.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\012GetContrary\obj\Debug\012GetContrary.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\012GetContrary\bin\Debug\012GetContrary.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\012GetContrary\bin\Debug\012GetContrary.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\012GetContrary\bin\Debug\012GetContrary.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\012GetContrary\obj\Debug\012GetContrary.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\012GetContrary\obj\Debug\012GetContrary.pdb

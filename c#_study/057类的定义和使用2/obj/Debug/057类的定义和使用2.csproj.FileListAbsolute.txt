@@ -5,3 +5,8 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\057类的�
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.pdb
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.csprojAssemblyReference.cache
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\bin\Debug\057类的定义和使用2.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\bin\Debug\057类的定义和使用2.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\bin\Debug\057类的定义和使用2.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.pdb

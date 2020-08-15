@@ -11,3 +11,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolSt
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\obj\Debug\016BoolStudy.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\obj\Debug\016BoolStudy.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\016BoolStudy\obj\Debug\016BoolStudy.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\016BoolStudy\bin\Debug\016BoolStudy.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\016BoolStudy\bin\Debug\016BoolStudy.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\016BoolStudy\bin\Debug\016BoolStudy.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\016BoolStudy\obj\Debug\016BoolStudy.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\016BoolStudy\obj\Debug\016BoolStudy.pdb

@@ -11,3 +11,8 @@ E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueY
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\obj\Debug\025ContinueYuJu.csproj.CoreCompileInputs.cache
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\obj\Debug\ContinueYuJu.exe
 E:\My File\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\ContinueYuJu\obj\Debug\ContinueYuJu.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\ContinueYuJu\bin\Debug\ContinueYuJu.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\ContinueYuJu\bin\Debug\ContinueYuJu.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\ContinueYuJu\bin\Debug\ContinueYuJu.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\ContinueYuJu\obj\Debug\ContinueYuJu.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\ContinueYuJu\obj\Debug\ContinueYuJu.pdb

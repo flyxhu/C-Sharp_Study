@@ -5,3 +5,8 @@ E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\045参数�
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\045参数数组\bin\Debug\045参数数组.pdb
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\045参数数组\obj\Debug\045参数数组.exe
 E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c#_study\045参数数组\obj\Debug\045参数数组.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\045参数数组\bin\Debug\045参数数组.exe.config
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\045参数数组\bin\Debug\045参数数组.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\045参数数组\bin\Debug\045参数数组.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\045参数数组\obj\Debug\045参数数组.exe
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\045参数数组\obj\Debug\045参数数组.pdb

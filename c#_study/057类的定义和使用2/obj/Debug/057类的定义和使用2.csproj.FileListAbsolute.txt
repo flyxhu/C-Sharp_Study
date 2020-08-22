@@ -10,3 +10,4 @@ C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\
 C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\bin\Debug\057类的定义和使用2.pdb
 C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.exe
 C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.pdb
+C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\057类的定义和使用2\obj\Debug\057类的定义和使用2.csprojResolveAssemblyReference.cache

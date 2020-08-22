@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.960
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001MyFirstProjectOf_C sharp", "MyFirstProjectOf_C sharp\001MyFirstProjectOf_C sharp.csproj", "{60A53A30-0A60-4276-B429-E9DC62F46B85}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002VriableType", "002VriableType\002VriableType.csproj", "{4FB3AD7F-6AE5-453B-9525-D37C0F35E1E5}"
@@ -116,6 +114,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056类的定义和使用", "056类的定义和使用\056类的定义和使用.csproj", "{1B19AA7F-F92C-4553-A508-F21F1F137EE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "057类的定义和使用2", "057类的定义和使用2\057类的定义和使用2.csproj", "{9358DDBA-A4BF-4597-8F0B-CCA6D7867229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058构造函数", "058构造函数\058构造函数.csproj", "{6E0F8F0E-F438-461B-8CAC-4B3AA8458F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059属性的定义和使用", "059属性的定义和使用\059属性的定义和使用.csproj", "{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,14 @@ Global
 		{9358DDBA-A4BF-4597-8F0B-CCA6D7867229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9358DDBA-A4BF-4597-8F0B-CCA6D7867229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9358DDBA-A4BF-4597-8F0B-CCA6D7867229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0F8F0E-F438-461B-8CAC-4B3AA8458F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0F8F0E-F438-461B-8CAC-4B3AA8458F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0F8F0E-F438-461B-8CAC-4B3AA8458F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0F8F0E-F438-461B-8CAC-4B3AA8458F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

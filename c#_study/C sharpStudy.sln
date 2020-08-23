@@ -119,6 +119,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058构造函数", "058构�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059属性的定义和使用", "059属性的定义和使用\059属性的定义和使用.csproj", "{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060匿名类型", "060匿名类型\060匿名类型.csproj", "{50413D1B-DE12-4F3D-A45A-EE8D379353CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061堆和栈", "061堆和栈\061堆和栈.csproj", "{15C0F6DA-0E47-432E-BBB1-35FD5194AB0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -361,6 +365,14 @@ Global
 		{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346EDA94-3A2E-4EBC-98B9-8F5985254FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50413D1B-DE12-4F3D-A45A-EE8D379353CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50413D1B-DE12-4F3D-A45A-EE8D379353CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50413D1B-DE12-4F3D-A45A-EE8D379353CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50413D1B-DE12-4F3D-A45A-EE8D379353CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C0F6DA-0E47-432E-BBB1-35FD5194AB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C0F6DA-0E47-432E-BBB1-35FD5194AB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C0F6DA-0E47-432E-BBB1-35FD5194AB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C0F6DA-0E47-432E-BBB1-35FD5194AB0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

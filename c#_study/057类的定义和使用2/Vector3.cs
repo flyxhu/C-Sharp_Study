@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _057类的定义和使用2
 {
-    class Vector3
+    public class Vector3
     {
         //public float x, y, z;
         private float x, y, z;       //编程规范上习惯把类里面数据成员的所有字段设置private的访问修饰符，只供内部访问，不允许对象访问

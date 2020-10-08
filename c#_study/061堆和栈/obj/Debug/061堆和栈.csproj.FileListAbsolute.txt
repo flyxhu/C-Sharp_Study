@@ -1,1 +1,7 @@
 C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\061堆和栈\bin\Debug\061堆和栈.exe.config
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\061堆和栈\bin\Debug\061堆和栈.exe.config
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\061堆和栈\bin\Debug\061堆和栈.exe
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\061堆和栈\bin\Debug\061堆和栈.pdb
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\061堆和栈\obj\Debug\061堆和栈.csprojResolveAssemblyReference.cache
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\061堆和栈\obj\Debug\061堆和栈.exe
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\061堆和栈\obj\Debug\061堆和栈.pdb

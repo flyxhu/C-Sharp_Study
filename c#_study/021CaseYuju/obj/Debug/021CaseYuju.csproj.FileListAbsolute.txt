@@ -23,3 +23,9 @@ C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\
 C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\bin\Debug\021CaseYuju.pdb
 C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\obj\Debug\021CaseYuju.exe
 C:\Users\Lindom Hui\Documents\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\obj\Debug\021CaseYuju.pdb
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\bin\Debug\021CaseYuju.exe.config
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\obj\Debug\021CaseYuju.exe
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\obj\Debug\021CaseYuju.pdb
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\bin\Debug\021CaseYuju.exe
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\bin\Debug\021CaseYuju.pdb
+D:\MyFiles\Visual Studio 2012\Projects\C-Sharp_Study\c#_study\021CaseYuju\obj\Debug\021CaseYuju.csprojResolveAssemblyReference.cache

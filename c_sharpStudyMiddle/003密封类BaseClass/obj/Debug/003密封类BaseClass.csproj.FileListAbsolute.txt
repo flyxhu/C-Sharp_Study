@@ -1,0 +1,7 @@
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c_sharpStudyMiddle\003密封类BaseClass\bin\Debug\003密封类BaseClass.exe.config
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c_sharpStudyMiddle\003密封类BaseClass\bin\Debug\003密封类BaseClass.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c_sharpStudyMiddle\003密封类BaseClass\bin\Debug\003密封类BaseClass.pdb
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c_sharpStudyMiddle\003密封类BaseClass\obj\Debug\003密封类BaseClass.csprojAssemblyReference.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c_sharpStudyMiddle\003密封类BaseClass\obj\Debug\003密封类BaseClass.csproj.CoreCompileInputs.cache
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c_sharpStudyMiddle\003密封类BaseClass\obj\Debug\003密封类BaseClass.exe
+E:\MyFile\v_huixhu\VisionStudioProjects\C-Sharp_Study-master\c_sharpStudyMiddle\003密封类BaseClass\obj\Debug\003密封类BaseClass.pdb
